@@ -1,0 +1,388 @@
+
+Internet Protocol television (IPTV) is the delivery of television content over Internet Protocol (IP) networks.
+
+Usage
+To watch IPTV you just need to paste this link https://iptv-org.github.io/iptv/index.m3u to any player with support M3U-playlists.
+
+
+Also you can instead use one of these playlists:
+
+https://iptv-org.github.io/iptv/index.country.m3u (grouped by country)
+https://iptv-org.github.io/iptv/index.category.m3u (grouped by category)
+https://iptv-org.github.io/iptv/index.language.m3u (grouped by language)
+Or select one of the playlists from the list below.
+
+
+Playlists by category
+
+Category	Channels	Playlist
+Auto	2	https://iptv-org.github.io/iptv/categories/auto.m3u
+Business	37	https://iptv-org.github.io/iptv/categories/business.m3u
+Classic	1	https://iptv-org.github.io/iptv/categories/classic.m3u
+Comedy	3	https://iptv-org.github.io/iptv/categories/comedy.m3u
+Documentary	9	https://iptv-org.github.io/iptv/categories/documentary.m3u
+Education	5	https://iptv-org.github.io/iptv/categories/education.m3u
+Entertainment	66	https://iptv-org.github.io/iptv/categories/entertainment.m3u
+Family	6	https://iptv-org.github.io/iptv/categories/family.m3u
+Fashion	31	https://iptv-org.github.io/iptv/categories/fashion.m3u
+Food	4	https://iptv-org.github.io/iptv/categories/food.m3u
+General	58	https://iptv-org.github.io/iptv/categories/general.m3u
+History	9	https://iptv-org.github.io/iptv/categories/history.m3u
+Hobby	3	https://iptv-org.github.io/iptv/categories/hobby.m3u
+Kids	86	https://iptv-org.github.io/iptv/categories/kids.m3u
+Legislative	9	https://iptv-org.github.io/iptv/categories/legislative.m3u
+Lifestyle	6	https://iptv-org.github.io/iptv/categories/lifestyle.m3u
+Local	242	https://iptv-org.github.io/iptv/categories/local.m3u
+Movies	112	https://iptv-org.github.io/iptv/categories/movies.m3u
+Music	203	https://iptv-org.github.io/iptv/categories/music.m3u
+News	282	https://iptv-org.github.io/iptv/categories/news.m3u
+Religious	106	https://iptv-org.github.io/iptv/categories/religious.m3u
+Shop	29	https://iptv-org.github.io/iptv/categories/shop.m3u
+Sport	159	https://iptv-org.github.io/iptv/categories/sport.m3u
+Travel	6	https://iptv-org.github.io/iptv/categories/travel.m3u
+Weather	7	https://iptv-org.github.io/iptv/categories/weather.m3u
+XXX	62	https://iptv-org.github.io/iptv/categories/xxx.m3u
+Other	4323	https://iptv-org.github.io/iptv/categories/other.m3u
+
+
+Playlists by language
+
+Language	Channels	Playlist
+Akan	2	https://iptv-org.github.io/iptv/languages/ak.m3u
+Albanian	34	https://iptv-org.github.io/iptv/languages/sq.m3u
+Amharic	2	https://iptv-org.github.io/iptv/languages/am.m3u
+Arabic	414	https://iptv-org.github.io/iptv/languages/ar.m3u
+Armenian	8	https://iptv-org.github.io/iptv/languages/hy.m3u
+Azerbaijani	12	https://iptv-org.github.io/iptv/languages/az.m3u
+Bengali	7	https://iptv-org.github.io/iptv/languages/bn.m3u
+Bosnian	2	https://iptv-org.github.io/iptv/languages/bs.m3u
+Bulgarian	22	https://iptv-org.github.io/iptv/languages/bg.m3u
+Burmese	16	https://iptv-org.github.io/iptv/languages/my.m3u
+Catalan	4	https://iptv-org.github.io/iptv/languages/ca.m3u
+Chinese	1563	https://iptv-org.github.io/iptv/languages/zh.m3u
+Croatian	36	https://iptv-org.github.io/iptv/languages/hr.m3u
+Czech	29	https://iptv-org.github.io/iptv/languages/cs.m3u
+Danish	14	https://iptv-org.github.io/iptv/languages/da.m3u
+Dutch	78	https://iptv-org.github.io/iptv/languages/nl.m3u
+English	706	https://iptv-org.github.io/iptv/languages/en.m3u
+Estonian	6	https://iptv-org.github.io/iptv/languages/et.m3u
+Faroese	2	https://iptv-org.github.io/iptv/languages/fo.m3u
+Finnish	3	https://iptv-org.github.io/iptv/languages/fi.m3u
+French	104	https://iptv-org.github.io/iptv/languages/fr.m3u
+Georgian	14	https://iptv-org.github.io/iptv/languages/ka.m3u
+German	186	https://iptv-org.github.io/iptv/languages/de.m3u
+Greek	72	https://iptv-org.github.io/iptv/languages/el.m3u
+Hebrew	23	https://iptv-org.github.io/iptv/languages/he.m3u
+Hindi	164	https://iptv-org.github.io/iptv/languages/hi.m3u
+Hungarian	21	https://iptv-org.github.io/iptv/languages/hu.m3u
+Icelandic	5	https://iptv-org.github.io/iptv/languages/is.m3u
+Indonesian	30	https://iptv-org.github.io/iptv/languages/id.m3u
+Italian	166	https://iptv-org.github.io/iptv/languages/it.m3u
+Japanese	23	https://iptv-org.github.io/iptv/languages/ja.m3u
+Kazakh	13	https://iptv-org.github.io/iptv/languages/kk.m3u
+Khmer	25	https://iptv-org.github.io/iptv/languages/km.m3u
+Kinyarwanda	5	https://iptv-org.github.io/iptv/languages/rw.m3u
+Korean	34	https://iptv-org.github.io/iptv/languages/ko.m3u
+Kurdish	9	https://iptv-org.github.io/iptv/languages/ku.m3u
+Kyrgyz	6	https://iptv-org.github.io/iptv/languages/ky.m3u
+Lao	4	https://iptv-org.github.io/iptv/languages/lo.m3u
+Latvian	5	https://iptv-org.github.io/iptv/languages/lv.m3u
+Lithuanian	6	https://iptv-org.github.io/iptv/languages/lt.m3u
+Luxembourgish	5	https://iptv-org.github.io/iptv/languages/lb.m3u
+Macedonian	4	https://iptv-org.github.io/iptv/languages/mk.m3u
+Malay	27	https://iptv-org.github.io/iptv/languages/ms.m3u
+Mongolian	6	https://iptv-org.github.io/iptv/languages/mn.m3u
+Māori	3	https://iptv-org.github.io/iptv/languages/mi.m3u
+Nepali	1	https://iptv-org.github.io/iptv/languages/ne.m3u
+Norwegian Bokmål	2	https://iptv-org.github.io/iptv/languages/nb.m3u
+Pashto	7	https://iptv-org.github.io/iptv/languages/ps.m3u
+Persian	50	https://iptv-org.github.io/iptv/languages/fa.m3u
+Polish	8	https://iptv-org.github.io/iptv/languages/pl.m3u
+Portuguese	73	https://iptv-org.github.io/iptv/languages/pt.m3u
+Romanian	103	https://iptv-org.github.io/iptv/languages/ro.m3u
+Russian	220	https://iptv-org.github.io/iptv/languages/ru.m3u
+Serbian	11	https://iptv-org.github.io/iptv/languages/sr.m3u
+Sinhala	6	https://iptv-org.github.io/iptv/languages/si.m3u
+Slovak	38	https://iptv-org.github.io/iptv/languages/sk.m3u
+Somali	7	https://iptv-org.github.io/iptv/languages/so.m3u
+Spanish	456	https://iptv-org.github.io/iptv/languages/es.m3u
+Swahili	6	https://iptv-org.github.io/iptv/languages/sw.m3u
+Swedish	11	https://iptv-org.github.io/iptv/languages/sv.m3u
+Tagalog	10	https://iptv-org.github.io/iptv/languages/tl.m3u
+Tamil	20	https://iptv-org.github.io/iptv/languages/ta.m3u
+Telugu	1	https://iptv-org.github.io/iptv/languages/te.m3u
+Thai	62	https://iptv-org.github.io/iptv/languages/th.m3u
+Turkish	76	https://iptv-org.github.io/iptv/languages/tr.m3u
+Turkmen	10	https://iptv-org.github.io/iptv/languages/tk.m3u
+Ukrainian	130	https://iptv-org.github.io/iptv/languages/uk.m3u
+Urdu	27	https://iptv-org.github.io/iptv/languages/ur.m3u
+Vietnamese	56	https://iptv-org.github.io/iptv/languages/vi.m3u
+Undefined	555	https://iptv-org.github.io/iptv/languages/undefined.m3u
+
+
+
+Playlists by country
+
+
+
+
+Category	Channels	Playlist
+Auto	2	https://iptv-org.github.io/iptv/categories/auto.m3u
+Business	37	https://iptv-org.github.io/iptv/categories/business.m3u
+Classic	1	https://iptv-org.github.io/iptv/categories/classic.m3u
+Comedy	3	https://iptv-org.github.io/iptv/categories/comedy.m3u
+Documentary	9	https://iptv-org.github.io/iptv/categories/documentary.m3u
+Education	5	https://iptv-org.github.io/iptv/categories/education.m3u
+Entertainment	66	https://iptv-org.github.io/iptv/categories/entertainment.m3u
+Family	6	https://iptv-org.github.io/iptv/categories/family.m3u
+Fashion	31	https://iptv-org.github.io/iptv/categories/fashion.m3u
+Food	4	https://iptv-org.github.io/iptv/categories/food.m3u
+General	58	https://iptv-org.github.io/iptv/categories/general.m3u
+History	9	https://iptv-org.github.io/iptv/categories/history.m3u
+Hobby	3	https://iptv-org.github.io/iptv/categories/hobby.m3u
+Kids	86	https://iptv-org.github.io/iptv/categories/kids.m3u
+Legislative	9	https://iptv-org.github.io/iptv/categories/legislative.m3u
+Lifestyle	6	https://iptv-org.github.io/iptv/categories/lifestyle.m3u
+Local	242	https://iptv-org.github.io/iptv/categories/local.m3u
+Movies	112	https://iptv-org.github.io/iptv/categories/movies.m3u
+Music	203	https://iptv-org.github.io/iptv/categories/music.m3u
+News	282	https://iptv-org.github.io/iptv/categories/news.m3u
+Religious	106	https://iptv-org.github.io/iptv/categories/religious.m3u
+Shop	29	https://iptv-org.github.io/iptv/categories/shop.m3u
+Sport	159	https://iptv-org.github.io/iptv/categories/sport.m3u
+Travel	6	https://iptv-org.github.io/iptv/categories/travel.m3u
+Weather	7	https://iptv-org.github.io/iptv/categories/weather.m3u
+XXX	62	https://iptv-org.github.io/iptv/categories/xxx.m3u
+Other	4323	https://iptv-org.github.io/iptv/categories/other.m3u
+
+Playlists by language
+Language	Channels	Playlist
+Akan	2	https://iptv-org.github.io/iptv/languages/ak.m3u
+Albanian	34	https://iptv-org.github.io/iptv/languages/sq.m3u
+Amharic	2	https://iptv-org.github.io/iptv/languages/am.m3u
+Arabic	414	https://iptv-org.github.io/iptv/languages/ar.m3u
+Armenian	8	https://iptv-org.github.io/iptv/languages/hy.m3u
+Azerbaijani	12	https://iptv-org.github.io/iptv/languages/az.m3u
+Bengali	7	https://iptv-org.github.io/iptv/languages/bn.m3u
+Bosnian	2	https://iptv-org.github.io/iptv/languages/bs.m3u
+Bulgarian	22	https://iptv-org.github.io/iptv/languages/bg.m3u
+Burmese	16	https://iptv-org.github.io/iptv/languages/my.m3u
+Catalan	4	https://iptv-org.github.io/iptv/languages/ca.m3u
+Chinese	1563	https://iptv-org.github.io/iptv/languages/zh.m3u
+Croatian	36	https://iptv-org.github.io/iptv/languages/hr.m3u
+Czech	29	https://iptv-org.github.io/iptv/languages/cs.m3u
+Danish	14	https://iptv-org.github.io/iptv/languages/da.m3u
+Dutch	78	https://iptv-org.github.io/iptv/languages/nl.m3u
+English	706	https://iptv-org.github.io/iptv/languages/en.m3u
+Estonian	6	https://iptv-org.github.io/iptv/languages/et.m3u
+Faroese	2	https://iptv-org.github.io/iptv/languages/fo.m3u
+Finnish	3	https://iptv-org.github.io/iptv/languages/fi.m3u
+French	104	https://iptv-org.github.io/iptv/languages/fr.m3u
+Georgian	14	https://iptv-org.github.io/iptv/languages/ka.m3u
+German	186	https://iptv-org.github.io/iptv/languages/de.m3u
+Greek	72	https://iptv-org.github.io/iptv/languages/el.m3u
+Hebrew	23	https://iptv-org.github.io/iptv/languages/he.m3u
+Hindi	164	https://iptv-org.github.io/iptv/languages/hi.m3u
+Hungarian	21	https://iptv-org.github.io/iptv/languages/hu.m3u
+Icelandic	5	https://iptv-org.github.io/iptv/languages/is.m3u
+Indonesian	30	https://iptv-org.github.io/iptv/languages/id.m3u
+Italian	166	https://iptv-org.github.io/iptv/languages/it.m3u
+Japanese	23	https://iptv-org.github.io/iptv/languages/ja.m3u
+Kazakh	13	https://iptv-org.github.io/iptv/languages/kk.m3u
+Khmer	25	https://iptv-org.github.io/iptv/languages/km.m3u
+Kinyarwanda	5	https://iptv-org.github.io/iptv/languages/rw.m3u
+Korean	34	https://iptv-org.github.io/iptv/languages/ko.m3u
+Kurdish	9	https://iptv-org.github.io/iptv/languages/ku.m3u
+Kyrgyz	6	https://iptv-org.github.io/iptv/languages/ky.m3u
+Lao	4	https://iptv-org.github.io/iptv/languages/lo.m3u
+Latvian	5	https://iptv-org.github.io/iptv/languages/lv.m3u
+Lithuanian	6	https://iptv-org.github.io/iptv/languages/lt.m3u
+Luxembourgish	5	https://iptv-org.github.io/iptv/languages/lb.m3u
+Macedonian	4	https://iptv-org.github.io/iptv/languages/mk.m3u
+Malay	27	https://iptv-org.github.io/iptv/languages/ms.m3u
+Mongolian	6	https://iptv-org.github.io/iptv/languages/mn.m3u
+Māori	3	https://iptv-org.github.io/iptv/languages/mi.m3u
+Nepali	1	https://iptv-org.github.io/iptv/languages/ne.m3u
+Norwegian Bokmål	2	https://iptv-org.github.io/iptv/languages/nb.m3u
+Pashto	7	https://iptv-org.github.io/iptv/languages/ps.m3u
+Persian	50	https://iptv-org.github.io/iptv/languages/fa.m3u
+Polish	8	https://iptv-org.github.io/iptv/languages/pl.m3u
+Portuguese	73	https://iptv-org.github.io/iptv/languages/pt.m3u
+Romanian	103	https://iptv-org.github.io/iptv/languages/ro.m3u
+Russian	220	https://iptv-org.github.io/iptv/languages/ru.m3u
+Serbian	11	https://iptv-org.github.io/iptv/languages/sr.m3u
+Sinhala	6	https://iptv-org.github.io/iptv/languages/si.m3u
+Slovak	38	https://iptv-org.github.io/iptv/languages/sk.m3u
+Somali	7	https://iptv-org.github.io/iptv/languages/so.m3u
+Spanish	456	https://iptv-org.github.io/iptv/languages/es.m3u
+Swahili	6	https://iptv-org.github.io/iptv/languages/sw.m3u
+Swedish	11	https://iptv-org.github.io/iptv/languages/sv.m3u
+Tagalog	10	https://iptv-org.github.io/iptv/languages/tl.m3u
+Tamil	20	https://iptv-org.github.io/iptv/languages/ta.m3u
+Telugu	1	https://iptv-org.github.io/iptv/languages/te.m3u
+Thai	62	https://iptv-org.github.io/iptv/languages/th.m3u
+Turkish	76	https://iptv-org.github.io/iptv/languages/tr.m3u
+Turkmen	10	https://iptv-org.github.io/iptv/languages/tk.m3u
+Ukrainian	130	https://iptv-org.github.io/iptv/languages/uk.m3u
+Urdu	27	https://iptv-org.github.io/iptv/languages/ur.m3u
+Vietnamese	56	https://iptv-org.github.io/iptv/languages/vi.m3u
+Undefined	555	https://iptv-org.github.io/iptv/languages/undefined.m3u
+
+Playlists by country
+
+Country	Channels	Playlist	EPG
+Afghanistan	7	https://iptv-org.github.io/iptv/countries/af.m3u	
+Albania	25	https://iptv-org.github.io/iptv/countries/al.m3u	http://195.154.221.171/epg/guidealbania.xml.gz
+Algeria	2	https://iptv-org.github.io/iptv/countries/dz.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+Andorra	4	https://iptv-org.github.io/iptv/countries/ad.m3u	
+Argentina	71	https://iptv-org.github.io/iptv/countries/ar.m3u	
+Armenia	9	https://iptv-org.github.io/iptv/countries/am.m3u	
+Aruba	3	https://iptv-org.github.io/iptv/countries/aw.m3u	
+Australia	17	https://iptv-org.github.io/iptv/countries/au.m3u	http://i.mjh.nz/nzau/epg.xml.gz
+Austria	17	https://iptv-org.github.io/iptv/countries/at.m3u	http://epg.streamstv.me/epg/guide-austria.xml.gz
+Azerbaijan	12	https://iptv-org.github.io/iptv/countries/az.m3u	https://iptvx.one/epg/epg.xml.gz
+Bahamas	1	https://iptv-org.github.io/iptv/countries/bs.m3u	
+Bahrain	5	https://iptv-org.github.io/iptv/countries/bh.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+Bangladesh	7	https://iptv-org.github.io/iptv/countries/bd.m3u	
+Barbados	1	https://iptv-org.github.io/iptv/countries/bb.m3u	
+Belarus	15	https://iptv-org.github.io/iptv/countries/by.m3u	https://iptvx.one/epg/epg.xml.gz
+Belgium	28	https://iptv-org.github.io/iptv/countries/be.m3u	http://195.154.221.171/epg/guidebelgium.xml.gz
+Bolivia	13	https://iptv-org.github.io/iptv/countries/bo.m3u	
+Bosnia and Herzegovina	3	https://iptv-org.github.io/iptv/countries/ba.m3u	http://epg.streamstv.me/epg/guide-exyu.xml.gz
+Brazil	54	https://iptv-org.github.io/iptv/countries/br.m3u	http://infinitytv.xyz/guide.xml
+Brunei	3	https://iptv-org.github.io/iptv/countries/bn.m3u	
+Bulgaria	22	https://iptv-org.github.io/iptv/countries/bg.m3u	http://195.154.221.171/epg/guidebulgaria.xml.gz
+Burkina Faso	1	https://iptv-org.github.io/iptv/countries/bf.m3u	
+Cambodia	25	https://iptv-org.github.io/iptv/countries/kh.m3u	
+Cameroon	5	https://iptv-org.github.io/iptv/countries/cm.m3u	
+Canada	29	https://iptv-org.github.io/iptv/countries/ca.m3u	http://epg.streamstv.me/epg/guide-canada.xml.gz
+Cape Verde	1	https://iptv-org.github.io/iptv/countries/cv.m3u	
+Chile	41	https://iptv-org.github.io/iptv/countries/cl.m3u	
+China	1476	https://iptv-org.github.io/iptv/countries/cn.m3u	http://epg.51zmt.top:8000/e.xml.gz
+Colombia	24	https://iptv-org.github.io/iptv/countries/co.m3u	
+Costa Rica	7	https://iptv-org.github.io/iptv/countries/cr.m3u	
+Croatia	34	https://iptv-org.github.io/iptv/countries/hr.m3u	http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml
+Curaçao	3	https://iptv-org.github.io/iptv/countries/cw.m3u	
+Cyprus	15	https://iptv-org.github.io/iptv/countries/cy.m3u	http://195.154.221.171/epg/guidegreece.xml.gz
+Czech Republic	29	https://iptv-org.github.io/iptv/countries/cz.m3u	http://epg.streamstv.me/epg/guide-cz.xml.gz
+Democratic Republic of the Congo	2	https://iptv-org.github.io/iptv/countries/cd.m3u	
+Denmark	14	https://iptv-org.github.io/iptv/countries/dk.m3u	http://195.154.221.171/epg/guidedenmark.xml.gz
+Dominican Republic	35	https://iptv-org.github.io/iptv/countries/do.m3u	
+Ecuador	5	https://iptv-org.github.io/iptv/countries/ec.m3u	
+Egypt	45	https://iptv-org.github.io/iptv/countries/eg.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+El Salvador	3	https://iptv-org.github.io/iptv/countries/sv.m3u	
+Equatorial Guinea	3	https://iptv-org.github.io/iptv/countries/gq.m3u	
+Estonia	16	https://iptv-org.github.io/iptv/countries/ee.m3u	http://195.154.221.171/epg/guideestonia.xml.gz
+Ethiopia	2	https://iptv-org.github.io/iptv/countries/et.m3u	
+Faroe Islands	2	https://iptv-org.github.io/iptv/countries/fo.m3u	
+Finland	3	https://iptv-org.github.io/iptv/countries/fi.m3u	http://195.154.221.171/epg/guidefinland.xml.gz
+Fiji	1	https://iptv-org.github.io/iptv/countries/fj.m3u	
+France	67	https://iptv-org.github.io/iptv/countries/fr.m3u	http://195.154.221.171/epg/guidefrance.xml.gz
+Gambia	1	https://iptv-org.github.io/iptv/countries/gm.m3u	
+Georgia	14	https://iptv-org.github.io/iptv/countries/ge.m3u	
+Germany	161	https://iptv-org.github.io/iptv/countries/de.m3u	http://195.154.221.171/epg/guidegermany.xml.gz
+Ghana	3	https://iptv-org.github.io/iptv/countries/gh.m3u	
+Greece	58	https://iptv-org.github.io/iptv/countries/gr.m3u	http://195.154.221.171/epg/guidegreece.xml.gz
+Guadeloupe	2	https://iptv-org.github.io/iptv/countries/gp.m3u	
+Guatemala	2	https://iptv-org.github.io/iptv/countries/gt.m3u	
+Guyana	2	https://iptv-org.github.io/iptv/countries/gy.m3u	
+Haiti	12	https://iptv-org.github.io/iptv/countries/ht.m3u	
+Honduras	23	https://iptv-org.github.io/iptv/countries/hn.m3u	
+Hong Kong	31	https://iptv-org.github.io/iptv/countries/hk.m3u	
+Hungary	21	https://iptv-org.github.io/iptv/countries/hu.m3u	http://epg.streamstv.me/epg/guide-hungry.xml.gz
+Iceland	5	https://iptv-org.github.io/iptv/countries/is.m3u	
+India	212	https://iptv-org.github.io/iptv/countries/in.m3u	http://epg.streamstv.me/epg/guide-india.xml.gz
+Indonesia	226	https://iptv-org.github.io/iptv/countries/id.m3u	
+International	104	https://iptv-org.github.io/iptv/countries/int.m3u	
+Iran	66	https://iptv-org.github.io/iptv/countries/ir.m3u	http://195.154.221.171/epg/guideiran.xml.gz
+Iraq	39	https://iptv-org.github.io/iptv/countries/iq.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+Ireland	1	https://iptv-org.github.io/iptv/countries/ie.m3u	
+Israel	25	https://iptv-org.github.io/iptv/countries/il.m3u	http://epg.streamstv.me/epg/guide-israel.xml.gz
+Italy	170	https://iptv-org.github.io/iptv/countries/it.m3u	http://195.154.221.171/epg/guideitaly.xml.gz
+Ivory Coast	1	https://iptv-org.github.io/iptv/countries/ci.m3u	
+Jamaica	5	https://iptv-org.github.io/iptv/countries/jm.m3u	
+Japan	23	https://iptv-org.github.io/iptv/countries/jp.m3u	
+Jordan	10	https://iptv-org.github.io/iptv/countries/jo.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+Kazakhstan	26	https://iptv-org.github.io/iptv/countries/kz.m3u	https://iptvx.one/epg/epg.xml.gz
+Kenya	5	https://iptv-org.github.io/iptv/countries/ke.m3u	
+Kosovo	10	https://iptv-org.github.io/iptv/countries/xk.m3u	
+Kuwait	15	https://iptv-org.github.io/iptv/countries/kw.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+Kyrgyzstan	8	https://iptv-org.github.io/iptv/countries/kg.m3u	
+Laos	4	https://iptv-org.github.io/iptv/countries/la.m3u	
+Latvia	23	https://iptv-org.github.io/iptv/countries/lv.m3u	https://iptvx.one/epg/epg.xml.gz
+Lebanon	35	https://iptv-org.github.io/iptv/countries/lb.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+Libya	7	https://iptv-org.github.io/iptv/countries/ly.m3u	
+Liechtenstein	2	https://iptv-org.github.io/iptv/countries/li.m3u	
+Lithuania	14	https://iptv-org.github.io/iptv/countries/lt.m3u	https://iptvx.one/epg/epg.xml.gz
+Luxembourg	5	https://iptv-org.github.io/iptv/countries/lu.m3u	
+Macau	14	https://iptv-org.github.io/iptv/countries/mo.m3u	
+Malaysia	23	https://iptv-org.github.io/iptv/countries/my.m3u	
+Mexico	45	https://iptv-org.github.io/iptv/countries/mx.m3u	
+Moldova	15	https://iptv-org.github.io/iptv/countries/md.m3u	https://iptvx.one/epg/epg.xml.gz
+Mongolia	6	https://iptv-org.github.io/iptv/countries/mn.m3u	
+Montenegro	4	https://iptv-org.github.io/iptv/countries/me.m3u	
+Morocco	23	https://iptv-org.github.io/iptv/countries/ma.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+Mozambique	2	https://iptv-org.github.io/iptv/countries/mz.m3u	
+Myanmar	17	https://iptv-org.github.io/iptv/countries/mm.m3u	
+Nepal	1	https://iptv-org.github.io/iptv/countries/np.m3u	
+Netherlands	65	https://iptv-org.github.io/iptv/countries/nl.m3u	http://195.154.221.171/epg/guidenetherlands.xml.gz
+New Zealand	9	https://iptv-org.github.io/iptv/countries/nz.m3u	http://i.mjh.nz/nzau/epg.xml.gz
+Nicaragua	2	https://iptv-org.github.io/iptv/countries/ni.m3u	
+Nigeria	10	https://iptv-org.github.io/iptv/countries/ng.m3u	
+North Korea	1	https://iptv-org.github.io/iptv/countries/kp.m3u	
+North Macedonia	4	https://iptv-org.github.io/iptv/countries/mk.m3u	
+Norway	6	https://iptv-org.github.io/iptv/countries/no.m3u	http://epg.streamstv.me/epg/guide-norway.xml.gz
+Oman	8	https://iptv-org.github.io/iptv/countries/om.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+Pakistan	23	https://iptv-org.github.io/iptv/countries/pk.m3u	
+Palestine	10	https://iptv-org.github.io/iptv/countries/ps.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+Panama	4	https://iptv-org.github.io/iptv/countries/pa.m3u	
+Paraguay	1	https://iptv-org.github.io/iptv/countries/py.m3u	
+Peru	22	https://iptv-org.github.io/iptv/countries/pe.m3u	
+Philippines	10	https://iptv-org.github.io/iptv/countries/ph.m3u	
+Poland	8	https://iptv-org.github.io/iptv/countries/pl.m3u	http://195.154.221.171/epg/guidepoland.xml.gz
+Portugal	16	https://iptv-org.github.io/iptv/countries/pt.m3u	http://195.154.221.171/epg/guideportugal.xml.gz
+Puerto Rico	4	https://iptv-org.github.io/iptv/countries/pr.m3u	
+Qatar	16	https://iptv-org.github.io/iptv/countries/qa.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+Romania	89	https://iptv-org.github.io/iptv/countries/ro.m3u	http://195.154.221.171/epg/guideromania.xml.gz
+Russia	307	https://iptv-org.github.io/iptv/countries/ru.m3u	https://iptvx.one/epg/epg.xml.gz
+Rwanda	5	https://iptv-org.github.io/iptv/countries/rw.m3u	
+Saint Kitts and Nevis	3	https://iptv-org.github.io/iptv/countries/kn.m3u	
+San Marino	1	https://iptv-org.github.io/iptv/countries/sm.m3u	
+Saudi Arabia	27	https://iptv-org.github.io/iptv/countries/sa.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+Senegal	4	https://iptv-org.github.io/iptv/countries/sn.m3u	
+Serbia	8	https://iptv-org.github.io/iptv/countries/rs.m3u	http://epg.streamstv.me/epg/guide-exyu.xml.gz
+Sierra Leone	1	https://iptv-org.github.io/iptv/countries/sl.m3u	
+Singapore	8	https://iptv-org.github.io/iptv/countries/sg.m3u	
+Sint Maarten	1	https://iptv-org.github.io/iptv/countries/sx.m3u	
+Slovakia	40	https://iptv-org.github.io/iptv/countries/sk.m3u	
+Somalia	7	https://iptv-org.github.io/iptv/countries/so.m3u	
+South Africa	2	https://iptv-org.github.io/iptv/countries/za.m3u	http://i.mjh.nz/za/DStv/epg.xml.gz
+South Korea	41	https://iptv-org.github.io/iptv/countries/kr.m3u	
+Spain	144	https://iptv-org.github.io/iptv/countries/es.m3u	http://195.154.221.171/epg/guidespain.xml.gz
+Sri Lanka	6	https://iptv-org.github.io/iptv/countries/lk.m3u	
+Sudan	5	https://iptv-org.github.io/iptv/countries/sd.m3u	
+Sweden	27	https://iptv-org.github.io/iptv/countries/se.m3u	http://195.154.221.171/epg/guidesweden.xml.gz
+Switzerland	24	https://iptv-org.github.io/iptv/countries/ch.m3u	http://195.154.221.171/epg/guideswitzerland.xml.gz
+Syria	24	https://iptv-org.github.io/iptv/countries/sy.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+Taiwan	48	https://iptv-org.github.io/iptv/countries/tw.m3u	
+Tanzania	1	https://iptv-org.github.io/iptv/countries/tz.m3u	
+Thailand	66	https://iptv-org.github.io/iptv/countries/th.m3u	
+Trinidad and Tobago	1	https://iptv-org.github.io/iptv/countries/tt.m3u	
+Tunisia	4	https://iptv-org.github.io/iptv/countries/tn.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+Turkey	76	https://iptv-org.github.io/iptv/countries/tr.m3u	http://195.154.221.171/epg/guideturkey.xml.gz
+Turkmenistan	11	https://iptv-org.github.io/iptv/countries/tm.m3u	
+Uganda	2	https://iptv-org.github.io/iptv/countries/ug.m3u	
+Ukraine	174	https://iptv-org.github.io/iptv/countries/ua.m3u	https://iptvx.one/epg/epg.xml.gz
+United Arab Emirates	123	https://iptv-org.github.io/iptv/countries/ae.m3u	http://195.154.221.171/epg/guidearab.xml.gz
+United Kingdom	60	https://iptv-org.github.io/iptv/countries/uk.m3u	http://195.154.221.171/epg/guideuk.xml.gz
+United States	501	https://iptv-org.github.io/iptv/countries/us.m3u	http://epg.streamstv.me/epg/guide-usa.xml.gz
+Uruguay	5	https://iptv-org.github.io/iptv/countries/uy.m3u	
+Venezuela	10	https://iptv-org.github.io/iptv/countries/ve.m3u	
+Vietnam	56	https://iptv-org.github.io/iptv/countries/vn.m3u	
+Virgin Islands of the United States	1	https://iptv-org.github.io/iptv/countries/vi.m3u	
+Western Sahara	1	https://iptv-org.github.io/iptv/countries/eh.m3u	
+Yemen	3	https://iptv-org.github.io/iptv/countries/ye.m3u	
+Zimbabwe	2	https://iptv-org.github.io/iptv/countries/zw.m3u	
+
+
+
